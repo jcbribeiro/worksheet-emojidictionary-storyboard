@@ -68,7 +68,6 @@ In this worksheet, you will build an Emoji Dictionary app using a table view to 
 
    - Select the **Table View** in the **EmojiTableViewController** scene.
    - In the **Attributes Inspector**, set **Prototype Cells** to `1`.
-   - Select the new prototype cell and set its **Identifier** to `EmojiCell`.
 
 2. **Creating the Custom Cell Class in EmojiTableViewController.swift**
 
